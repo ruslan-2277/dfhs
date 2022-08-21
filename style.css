@@ -1,0 +1,12 @@
+.blok__text {
+    display: flex;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(139, 92, 92);
+    margin: auto;
+}
+
+.text {
+   display: flexbox;
+margin: center;
+}
