@@ -300,10 +300,7 @@
   margin: 0 auto;
 }
 
-.footer__column_content_info {
-}
-.footer__column {
-}
+
 .footer__column_content_copyright {
   flex-basis: 711px;
   min-height: 140px;
@@ -345,6 +342,4 @@
 
 .footer__social-icon {
   margin-right: 10px;
-}
-.footer__column_content_social {
 }
