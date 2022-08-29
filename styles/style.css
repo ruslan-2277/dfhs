@@ -1,4 +1,4 @@
-.page
+
   /*Обнуление*/
 * {
   padding: 0;
@@ -29,6 +29,9 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
 }
 /*Шапка сайта */
 
@@ -68,7 +71,7 @@
   position: absolute;
   width: 388px;
   bottom: 30px;
-  margin: 0px 0px 0px 64px;
+  margin: 0 0 0 64px;
   font-size: 18px;
   line-height: 25px;
   font-weight: normal;
@@ -255,22 +258,6 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-}
-
-.table__theme_dark {
-}
-
-.table__cell_theme_dark {
-  width: 200px;
-}
-
-.table__heading_theme_dark {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-}
-
-.table__text_theme_dark {
 }
 
 .kaufman__triangle {
